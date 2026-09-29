@@ -1,0 +1,18 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local sample projects and duplicate scratch files
+myapi/
+MyMvcApp/
+ToDo.cs
+
+# Local secrets and environment files
+.env
+appsettings.Local.json
+
+# Certificates
+*.pfx
+*.pem
